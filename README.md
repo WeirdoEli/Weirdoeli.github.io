@@ -1,4 +1,3 @@
-# Weirdoeli.github.io
 <!DOCTYPE html>
 <html>
 <title>About Elijah McCaskill</title>
